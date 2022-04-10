@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swetha Baskaran</h1>
-<hr>
+<br>
 <h3 align="center">Frontend developer || Following MERN Stack</h3>
 <hr>
 <p align="center">Pursuring Btech Information Technology @Pondicherry Technological University</>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetha-baskaran&label=Profile%20views&color=0e75b6&style=flat" alt="swetha-baskaran" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swetha-baskaran" alt="swetha-baskaran" /></a> </p>
