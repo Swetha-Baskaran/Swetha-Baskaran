@@ -7,7 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetha-baskaran&label=Profile%20views&color=0e75b6&style=flat" alt="swetha-baskaran" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swetha-baskaran" alt="swetha-baskaran" /></a> </p>
-
+<br>
+<br>
 <p align="left"> <a href="https://twitter.com/swethabaskaran8" target="blank"><img src="https://img.shields.io/twitter/follow/swethabaskaran8?logo=twitter&style=for-the-badge" alt="swethabaskaran8" /></a> </p>
 
 - 🔭 I’m currently working as **software engineer intern @Cognived Solutions, Bangalore**
