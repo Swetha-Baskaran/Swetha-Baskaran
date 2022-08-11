@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swetha Baskaran</h1>
 <br>
-<h3 align="center">Frontend developer || Following MERN Stack</h3>
+<h3 align="center">Frontend developer || Following MERN Stack  || Intrested in Devops</h3>
 <hr>
 <p align="center">Pursuring Btech Information Technology @Pondicherry Technological University</>
 <br>
