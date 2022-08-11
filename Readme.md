@@ -5,7 +5,24 @@
 <p align="center">Pursuring Btech Information Technology @Pondicherry Technological University</>
 <br>
 # 💫 About Me:
-🔭 I’m currently working as software engineer intern @Cognived Solutions, Bangalore<br><br>🌱 I’m currently learning Backend Development (Node Js, Mongo DB)<br><br>👯 I’m looking to collaborate on Fullstack Projects<br><br>👨‍💻 All of my projects are available at <a href="swetha-baskaran.github.io/portfolio/"  target="blank">swetha-baskaran.github.io/portfolio/</a> <br><br>💬 Ask me about Front Development especially React JS<br><br>📫 How to reach me <a href="swethasambothi@gmail.com" target="blank">swethasambothi@gmail.com</a><br><br>📄 Know about my experiences https://drive.google.com/file/d/19MYvlAHq_5hgGkEJ6Y8wsVa0DizoIoqD/view?usp=sharing<br><br>⚡ Fun fact I enjoy every singly minute
+<p align="center"> <a href="https://twitter.com/swethabaskaran8" target="blank"><img src="https://img.shields.io/twitter/follow/swethabaskaran8?logo=twitter&style=for-the-badge" alt="swethabaskaran8" /></a> </p>
+
+- 🔭 I’m currently working as **software engineer intern @Cognived Solutions, Bangalore**
+
+- 🌱 I’m currently learning **React JS, Redux, My Sql**
+
+- 👯 I’m looking to collaborate on **Fullstack Projects**
+
+- 👨‍💻 All of my projects are available at [swetha-baskaran.github.io/portfolio/](swetha-baskaran.github.io/portfolio/)
+
+- 💬 Ask me about **Front Development especially React JS**
+
+- 📫 How to reach me **swethasambothi@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/19MYvlAHq_5hgGkEJ6Y8wsVa0DizoIoqD/view?usp=sharing](https://drive.google.com/file/d/19MYvlAHq_5hgGkEJ6Y8wsVa0DizoIoqD/view?usp=sharing)
+
+- ⚡ Fun fact **I enjoy every singly minute**
+<hr>
 
 
 ## 🌐 Socials:
