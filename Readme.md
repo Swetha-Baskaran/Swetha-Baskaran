@@ -1,5 +1,3 @@
-<img src="https://i.postimg.cc/Hs73ZNpm/poster.png" alt="profile-poster" />
-<br>
 <h3 align="center">Frontend developer || Following MERN Stack  || Intrested in Devops</h3>
 <hr>
 <p align="center">Pursuring Btech Information Technology @Pondicherry Technological University</>
