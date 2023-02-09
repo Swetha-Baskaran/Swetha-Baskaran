@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFaGk9pSac/Hsn542wPQcZBRftDwICXaw/view?utm_content=DAFaGk9pSac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+<img src="https://i.postimg.cc/Bn0LpRL1/Grey-and-Black-Professional-Linked-In-Article-Cover-Image-5.png" />
 <br>
 <h1 align="center">I'm Swetha</h1>
 <h3 align="center">Frontend developer || Following MERN Stack  || Intrested in Devops</h3>
