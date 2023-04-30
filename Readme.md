@@ -39,7 +39,7 @@
 <br /><br />
 <p align="center"><img src="https://i.imgur.com/x1KbuCq.gif" width="500"></p>
 <br />
-<p align="center"><img src="https://github.com/Swetha-Baskaran/Swetha-Baskaran/blob/output/github-contribution-grid-snake.svg" width="500"></p>
+<p align="center"><img src="https://github.com/Swetha-Baskaran/Swetha-Baskaran/blob/output/github-contribution-grid-snake.svg" width="100%"></p>
 <br />
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Swetha-Baskaran&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
