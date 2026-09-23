@@ -1,49 +1,205 @@
-<img src="https://i.postimg.cc/Bn0LpRL1/Grey-and-Black-Professional-Linked-In-Article-Cover-Image-5.png" />
-<h1 align="center">I'm Swetha</h1>
-<h3 align="center">Frontend developer || Following MERN Stack  || Intrested in Devops</h3>
-<hr>
-<p align="center">Pursuring Btech Information Technology @Pondicherry Technological University</>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0F172A,100:2563EB&text=SWETHA%20BASKARAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER&descAlignY=60&descSize=16&animation=twinkling" width="100%"/>
+
 <br>
 
-# 💫 About Me:
-<p align="center"> <a href="https://twitter.com/swethabaskaran8" target="blank"><img src="https://img.shields.io/twitter/follow/swethabaskaran8?logo=twitter&style=for-the-badge" alt="swethabaskaran8" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=%24+whoami;Software+Engineer+%F0%9F%91%A9%F0%9F%92%BB;Building+scalable+systems+%F0%9F%9A%80;Go+%7C+Node.js+%7C+React+%7C+TypeScript;Backend+%7C+Full+Stack+%7C+AI;Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Ship+%E2%86%92+Repeat" />
 
-- 🔭 I’m currently working as **Software Engineer Intern @Cognived Solutions, Bangalore**
+<br><br>
 
-- 🌱 I’m currently learning **Node Js, MongoDB, Docker**
+<img src="https://komarev.com/ghpvc/?username=Swetha-Baskaran&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Swetha-Baskaran?style=for-the-badge&label=FOLLOWERS&color=0F172A&logo=github"/>
 
-- 👯 I’m looking to collaborate on **Fullstack Projects**
+</div>
 
-- 👨‍💻 All of my projects are available at [swetha-baskaran.github.io/portfolio/](swetha-baskaran.github.io/portfolio/)
-
-- 💬 Ask me about **Front Development**
-
-- 📫 How to reach me **swethasambothi@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19MYvlAHq_5hgGkEJ6Y8wsVa0DizoIoqD/view?usp=sharing](https://drive.google.com/file/d/19MYvlAHq_5hgGkEJ6Y8wsVa0DizoIoqD/view?usp=sharing)
-
-- ⚡ Fun fact **I enjoy every singly minute**
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/swethabaskaran8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swethabaskaran8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swetha-baskaran-1b58a221a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha-baskaran-1b58a221a" height="30" width="40" /></a>
-<a href="https://instagram.com/swetha_baskaran__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swetha_baskaran__" height="30" width="40" /></a>
-</p>
-<hr>
 <br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-<br /><br />
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Swetha-Baskaran&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Swetha-Baskaran&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha-Baskaran&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Swetha-Baskaran&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+```text
+┌── swetha@github ───────────────────────────────┐
+│                                                │
+│  ● ONLINE                                      │
+│                                                │
+│  Software Engineer                             │
+│  Backend · Full Stack · AI                     │
+│                                                │
+└────────────────────────────────────────────────┘
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=Swetha-Baskaran&icon=5&color=10)](https://visitcount.itsvg.in)
+</div>
+
+<br>
+
+## `~/stack`
+
+<div align="center">
+
+### 💻 CORE
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,python" />
+
+<br><br>
+
+### ⚛️ FRONTEND & MOBILE
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,androidstudio" />
+
+<br><br>
+
+### ⚙️ BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+
+<br><br>
+
+### 🗄️ DATA
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+<br><br>
+
+### ☁️ CLOUD & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,grafana" />
+
+<br><br>
+
+### 🧰 TOOLBOX
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+<br>
+
+`Kratos` · `GORM` · `Dapr` · `gRPC` · `Protobuf` · `Argo CD` · `Swagger` · `Kibana`
+
+</div>
+
+<br>
+
+## `~/focus`
+
+<div align="center">
+
+|    🧠   |        🏗️        |    ⚡   |            🌐           |   🤖   |
+| :-----: | :---------------: | :----: | :---------------------: | :----: |
+| **DSA** | **System Design** | **Go** | **Distributed Systems** | **AI** |
+
+<br>
+
+`BUILDING`   `LEARNING`   `EXPERIMENTING`   `SHIPPING`
+
+</div>
+
+<br>
+
+## `~/github`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Swetha-Baskaran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha-Baskaran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🔥 CONTRIBUTION STREAK
+
+<img src="https://streak-stats.demolab.com?user=Swetha-Baskaran&theme=tokyonight&hide_border=true&mode=weekly"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🏆 ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=Swetha-Baskaran&theme=discord&no-frame=true&no-bg=true&margin-w=5&row=1&column=7"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📡 ACTIVITY SIGNAL
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swetha-Baskaran&bg_color=020617&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+<br>
+
+## `~/terminal`
+
+```text
+$ git status
+
+On branch main
+
+Changes not staged for commit:
+  modified:   knowledge
+  modified:   skills
+  modified:   curiosity
+
+Untracked files:
+  ideas/
+  experiments/
+  things-i-want-to-learn/
+
+nothing to commit.
+
+Everything is still in progress. 🚀
+```
+
+<br>
+
+<div align="center">
+
+### 🐍 CONTRIBUTION MATRIX
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🌐 CONNECT
+
+<a href="https://swetha-baskaran.github.io/profile/">
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/swetha-baskaran31">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@Crazy_Dev">
+<img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Swetha_Baskar/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Swetha-Baskaran">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+`⚡ Code. Build. Learn. Ship. Repeat.`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:020617&section=footer"/>
+
+</div>
